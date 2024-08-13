@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.link{
+    height: 30px;
+    width: 100%;
+    background: rgb(241, 161, 175);
+    display: flex;
+    align-items: center;
+    border: 2px solid gray;
+    font-size: 15px;
+}
+.link1{
+    margin-left: 30px;
+}
+.deals{
+    margin-left: 30px;
+}
+.Help{
+    margin-left: 30px;
+}
+.Cell{
+    margin-left: 550px;
+}
+.watch{
+    margin-left: 20px;
+}
+.myebay{
+    margin-left: 20px;
+}
+.bell{
+    margin-left: 20px;
+}
+.cart{
+    margin-left: 20px;
+}
+.navbar2{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(118, 161, 175);
+    align-items: center;
+    border-bottom: 2px solid gray;
+}
+.h1{
+    display: flex;
+    font-size: 60px;
+    margin-left: 30px;
+}
+.h11{
+    color: red;
+    
+}
+.h12{
+    color: blue;
+}
+.h13{
+    color: yellow;
+}
+.h14{
+    color: green;
+}
+.shop{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.inputbox input {
+    margin-left: 170px;
+    width: 600px;
+    height: 40px;
+    font-size: 1.2rem;
+}
+.inputbox input ::placeholder{
+    font-size: 1.5rem;
+}
+.btn button {
+    margin-left: 20px;
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(90, 90, 226);
+    cursor: pointer; 
+    color: white;
+}
+.btn :hover{
+    background-color: pink;
+}
+.advance{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.navbar3{
+    display: flex;
+    width: 100%;
+    height: 30px;
+    background-color: #f0e6e6;
+    align-items: center;
+   
+}
+.listaitem .display{
+    list-style: none;
+    display: flex;
+}
+.listaitem .display li{
+    margin-left: 50px;
+    opacity: 0.7;
+}
+.listaitem .display li:hover{
+    color: blue;
+    opacity: 1;
+}
+.herosection img{
+  width: 100%;
+  
+}
+
+.fav{
+    height: 100px;
+    background-color: #dad6d6;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+}
+h1{
+    text-align: center;
+}
+.fav1 p {
+    display: flex;
+}
+p{
+    text-align: center;
+    margin-bottom: auto;
+}
+
+.btn1 button{
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    border: 2px solid black;
+    margin-left: 340px;
+    
+}
+.btn1 button:hover{
+    background-color: black;
+    color: white;
+}
